@@ -1,4 +1,3 @@
-
 const App = () =>{
 
   const course = {
